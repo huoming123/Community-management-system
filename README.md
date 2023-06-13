@@ -1,13 +1,11 @@
-# 基于JAVA社区人员管理系统（项目包含源码+开题报告+论文+开题答辩PPT+毕业答辩PPT）(需要完整项目文件加微信13650154582)   
-
-#接计算机毕业设计（代码注释详细+做完会录制视频讲解 需要加微信13650154582）
-
+# 基于JAVA社区人员管理系统 
+（项目包含源码+开题报告+论文+开题答辩PPT+毕业答辩PPT）(需要完整项目文件加微信13650154582)   
+接计算机毕业设计（代码注释详细+做完会录制视频讲解 需要加微信13650154582）  
 #b站代码视频讲解地址链接：https://www.bilibili.com/video/BV1xG4y1R7Mt/?spm_id_from=333.337.search-card.all.click
-
-#项目文件  
+# 项目文件  
 ![Image text](https://github.com/huoming123/Community-management-system/blob/main/%E9%A1%B9%E7%9B%AE%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/%E9%A1%B9%E7%9B%AE%E6%96%87%E4%BB%B6.png)  
 
-#项目功能结构图  
+# 项目功能结构图  
 
 ![Image text](https://github.com/huoming123/Community-management-system/blob/main/%E9%A1%B9%E7%9B%AE%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/%E5%9B%BE%E7%89%871.png)   
 
@@ -23,11 +21,12 @@
 （7）查看值班人员：居民登录之后可以查看每天值班人员的信息。  
 （8）留言反馈：居民登录之后可以进行留言反馈。  
 
-#技术路线
+# 技术路线
 
 本系统采用IDEA,JAVA，MySQL等相关的数据库并采用SpringBoot+Vue前后端分离的框架对系统进行开发。研究B/S的基本架构，搭建好IDEA开发环境，基于win10操作系统来搭建服务器，根据系统设计文档进行编程开发。从而实现社区人员管理系统的主体功能。  
 
-#项目功能截图  
+# 项目功能截图   
+
 ![Image text](https://github.com/huoming123/Community-management-system/blob/main/%E9%A1%B9%E7%9B%AE%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/%E7%99%BB%E5%BD%95.png)   
 ![Image text](https://github.com/huoming123/Community-management-system/blob/main/%E9%A1%B9%E7%9B%AE%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/%E5%B1%85%E6%B0%91%E5%BD%95%E5%85%A5.png)   
 ![Image text](https://github.com/huoming123/Community-management-system/blob/main/%E9%A1%B9%E7%9B%AE%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE/%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83.png)   
